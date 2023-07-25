@@ -17,7 +17,7 @@ export const MainArticle = () => {
           <p className="text-[13px] mb-10 sm:text-[15px]">
             We dive into the next evolution of the web that claims to put the
             power of the platforms back into the hands of the people. But is it
-            really fulfilling its promise?
+            really fulfilling its promise??
           </p>
           <button className='bg-red-600 w-[185px] h-[48px] uppercase text-Off-White hover:bg-VeryDarkBlue'>Read more</button>
         </div>
